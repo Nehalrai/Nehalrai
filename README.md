@@ -33,13 +33,4 @@ Reach me at rainehal674@gmail.com
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nehalrai&show_icons=true&theme=default" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nehalrai&layout=compact" height="165">
-</p>
-
----
-
-<p align="center"><i>Actively looking for SDE / AI/ML / Data Scientist roles, let's connect!</i></p>
