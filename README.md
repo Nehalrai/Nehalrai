@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Nehal Rai 👋</h1>
-<h3 align="center">Information Technology Student | Backend Systems · AI/ML · Fintech</h3>
+<h3 align="center">Information Technology Student | Software Development · Backend Systems · AI/ML · Fintech · Data Science</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nehal-rai1"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
