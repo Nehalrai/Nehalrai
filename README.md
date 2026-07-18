@@ -1,16 +1,45 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Nehal Rai 👋</h1>
+<h3 align="center">Information Security Engineering Student | Building secure, production-grade software</h3>
 
-<!--
-**Nehalrai/Nehalrai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.linkedin.com/in/nehal-rai1"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:rainehal674@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+
+- 🎓 4th-year B.Tech in Information Technology, Manipal Institute of Technology (Minor in Fintech)
+- 🔐 Focused on secure systems — encryption, authentication, RBAC, and compliant architectures
+- 🤖 Also ship applied AI/ML: RAG pipelines, GNNs, and multimodal models, from research to deployment
+- 💼 Ex AI/ML Intern @ Kreatio Software · AI Intern @ Acmegrade x Mood Indigo (IIT Bombay)
+- 🌱 Currently a Student Researcher in applied ML, and contributed to open source via GirlScript Summer of Code
+- 📫 Reach me at **rainehal674@gmail.com**
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+
+**Backend & Infra:** ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+
+**AI/ML:** ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat)
+
+**Security:** AES Encryption · Cryptographic Hashing · JWT & RBAC · GDPR-compliant design
+
+**Frontend & Mobile:** ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nehalrai&show_icons=true&theme=default" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nehalrai&layout=compact" height="165">
+</p>
+
+---
+
+<p align="center"><i>Actively looking for SDE / AI/ML / Data Scientist roles, let's connect!</i></p>
