@@ -31,4 +31,4 @@
 
 ---
 
-<p align="center"><i>Actively looking for SDE / Software Engineering roles — open to backend, AI/ML, and fintech — let's connect!</i></p>
+<p align="center"><i>Actively looking for SDE / Software Engineering roles - open to backend, AI/ML, Data Science and fintech - let's connect!</i></p>
