@@ -10,12 +10,12 @@
 
 ### About Me
 
-- 🎓 4th-year B.Tech in Information Technology, Manipal Institute of Technology (Minor in Fintech)
-- 🔐 Focused on secure systems — encryption, authentication, RBAC, and compliant architectures
-- 🤖 Also ship applied AI/ML: RAG pipelines, GNNs, and multimodal models, from research to deployment
-- 💼 Ex AI/ML Intern @ Kreatio Software · AI Intern @ Acmegrade x Mood Indigo (IIT Bombay)
-- 🌱 Currently a Student Researcher in applied ML, and contributed to open source via GirlScript Summer of Code
-- 📫 Reach me at **rainehal674@gmail.com**
+-4th-year B.Tech in Information Technology, Manipal Institute of Technology (Minor in Fintech)
+-Broadly curious engineer - I've built across backend systems, applied AI/ML, and fintech-adjacent projects, and enjoy        picking up unfamiliar stacks fast
+-Recent work spans RAG pipelines, GNNs, multimodal models, and production-ready APIs
+-Ex AI/ML Intern @ Kreatio Software · AI Intern @ Acmegrade x Mood Indigo (IIT Bombay)
+-Currently a Student Researcher in applied ML, and contributing to open source via GirlScript Summer of Code
+Reach me at rainehal674@gmail.com
 
 ---
 
