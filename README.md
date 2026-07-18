@@ -11,7 +11,7 @@
 ### About Me
 
 - 4th-year B.Tech in Information Technology, Manipal Institute of Technology (Minor in Fintech)
-- Broadly curious engineer — I've built across backend systems, applied AI/ML, and fintech-adjacent projects, and enjoy picking up unfamiliar stacks fast
+- Broadly curious engineer - I've built across backend systems, applied AI/ML, and fintech-adjacent projects, and enjoy picking up unfamiliar stacks fast
 - Recent work spans RAG pipelines, GNNs, multimodal models, and production-ready APIs
 - Ex AI/ML Intern @ Kreatio Software · AI Intern @ Acmegrade x Mood Indigo (IIT Bombay)
 - Currently a Student Researcher in applied ML, and contributing to open source via GirlScript Summer of Code
